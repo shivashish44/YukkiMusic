@@ -1,25 +1,22 @@
-<h1 align="center">🎧 <b>YukkiMusic</b></h1>
+<h1 align="center">🎧 <b>AARUQUEEN</b></h1>
 
 <p align="center">
   <i>⚡ A blazing-fast, reliable, and feature-packed Telegram bot for streaming music in group voice chats — built with Go.</i>
 </p>
 
+
+</h2>
+
 <p align="center">
-  <a href="https://github.com/TheTeamVivek/YukkiMusic/stargazers">
-    <img src="https://img.shields.io/github/stars/TheTeamVivek/YukkiMusic?style=for-the-badge&label=Stars&color=FFD700&logo=github&logoColor=white" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/TheTeamVivek/YukkiMusic/fork">
-    <img src="https://img.shields.io/github/forks/TheTeamVivek/YukkiMusic?style=for-the-badge&label=Forks&color=00C853&logo=github&logoColor=white" alt="GitHub Forks">
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/Go-1.25+-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version">
-  </a>
-  <a href="https://github.com/TheTeamVivek/YukkiMusic/releases">
-    <img src="https://img.shields.io/badge/Version-v3.2.0-FF9800?style=for-the-badge&logo=semver&logoColor=white" alt="Release Version">
-  </a>
-  <a href="https://t.me/TheTeamVk">
-    <img src="https://img.shields.io/badge/Telegram-Support-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group">
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+BETA+BOT+HUB+🚩+🍁"></b></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>Beta𝐁ᴏᴛHub</b></h1>
+<p align="center"><a href="https://sukoon_s"><img src="https://files.catbox.moe/nrt3hr.jpg" width="400"></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</p>
+
 </p>
 
 <hr>
@@ -145,3 +142,22 @@ go run ./cmd/app
   <b>Made with ❤️ by <a href="https://github.com/Vivekkumar-in">Vivek Kumar</a></b><br>
   <i>Licensed under the GNU General Public License v3.0</i>
 </p>
+
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/BETABOT_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/BETABOT_HUB"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+### Contact :
+<a href="https://t.me/SUKOON_S"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://instagram.com/shivashish.kr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>

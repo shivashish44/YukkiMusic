@@ -131,18 +131,7 @@ go run ./cmd/app
 
 <h2>🤝 Contributing & Support</h2>
 <ul>
-  <li><b>Issues:</b> Found a bug or have a suggestion? Open a <b><a href="https://github.com/TheTeamVivek/YukkiMusic/issues">GitHub Issue</a></b>.</li>
-  <li><b>Support:</b> Join our Telegram community for help: <b><a href="https://t.me/TheTeamVk">@TheTeamVk</a></b>.</li>
-  <li><b>Updates:</b> Follow <b><a href="https://t.me/TheTeamVivek">@TheTeamVivek</a></b> for news.</li>
-</ul>
-
-<hr>
-
-<p align="center">
-  <b>Made with ❤️ by <a href="https://github.com/Vivekkumar-in">Vivek Kumar</a></b><br>
-  <i>Licensed under the GNU General Public License v3.0</i>
-</p>
-
+  <li><b>Issues:</b> Found a bug or have a suggestion? Open a <b><a 
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
